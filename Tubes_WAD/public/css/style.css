@@ -1,3 +1,12 @@
+<<<<<<< HEAD
+=======
+/*
+* Template Name: UntreeStore
+* Template Author: Untree.co
+* Author URI: https://untree.co/
+* License: https://creativecommons.org/licenses/by/3.0/
+*/
+>>>>>>> d631132a202d1cd477f06a4222496c8c3e40fe0f
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap");
 body {
   overflow-x: hidden;
@@ -702,4 +711,8 @@ textarea {
     width: 50px;
     height: 50px;
     border-radius: 50%;
+<<<<<<< HEAD
     background: rgba(59, 93, 80, 0.2); }
+=======
+    background: rgba(59, 93, 80, 0.2); }
+>>>>>>> d631132a202d1cd477f06a4222496c8c3e40fe0f

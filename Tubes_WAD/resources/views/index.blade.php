@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> d631132a202d1cd477f06a4222496c8c3e40fe0f
 <!doctype html>
 <html lang="en">
 <head>
@@ -10,7 +14,11 @@
   <meta name="keywords" content="bootstrap, bootstrap4" />
 
 		<!-- Bootstrap CSS -->
+<<<<<<< HEAD
 		<link href="{{ asset('css/bootstrap.min.css') }}" rel="stylesheet">
+=======
+        <link href="{{ asset('css/bootstrap.min.css') }}" rel="stylesheet">
+>>>>>>> d631132a202d1cd477f06a4222496c8c3e40fe0f
 		<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
 		<link href="{{ asset('css/tiny-slider.css') }}" rel="stylesheet">
 		<link href="{{ asset('css/style.css') }}" rel="stylesheet">
@@ -34,7 +42,11 @@
 						<li class="nav-item active">
 							<a class="nav-link" href="index.html">Home</a>
 						</li>
+<<<<<<< HEAD
 						<li><a class="nav-link" href="shop.html">Shop</a></li>
+=======
+						<li><a class="nav-link" href="shop">Shop</a></li>
+>>>>>>> d631132a202d1cd477f06a4222496c8c3e40fe0f
 						<li><a class="nav-link" href="about.html">About us</a></li>
 						<li><a class="nav-link" href="about.html">Rancakalong</a></li>
 						<li><a class="nav-link" href="contact.html">Contact us</a></li>
@@ -59,7 +71,11 @@
 								<h1 class="mb-0">Natural Soap <span class="d-block">Nurturing Future</span></h1>
 								<h4 class="mt-0" style="color: whitesmoke;">Rancakalong Village, West Java</h4>
 								<p class="mb-4">Glow with naturally crafted soap made from recycled oil and pure ingredients.</p>
+<<<<<<< HEAD
 								<p><a href="" class="btn btn-secondary me-2">Shop Now</a><a href="#" class="btn btn-white-outline">Explore</a></p>
+=======
+								<p><a href="shop" class="btn btn-secondary me-2">Shop Now</a><a href="#" class="btn btn-white-outline">Explore</a></p>
+>>>>>>> d631132a202d1cd477f06a4222496c8c3e40fe0f
 							</div>
 						</div>
 						<div class="col-lg-5">
@@ -132,13 +148,21 @@
 		</div>
 		<!-- End Product Section -->
 
+<<<<<<< HEAD
 		Start Why Choose Us Section
+=======
+		<!-- Start Why Choose Us Section -->
+>>>>>>> d631132a202d1cd477f06a4222496c8c3e40fe0f
 		<div class="why-choose-section">
 			<div class="container">
 				<div class="row justify-content-between">
 					<div class="col-lg-6">
 						<h2 class="section-title">Why Choose Us</h2>
+<<<<<<< HEAD
 						<p>Donec vitae odio quis nisl dapibus malesuada. Nullam ac aliquet velit. Aliquam vulputate velit imperdiet dolor tempor tristique.</p>
+=======
+						<p>RefillMe! merupakan project yang berfokus pada pemanfaatan bahan-bahan alami untuk produk kecantikan dan kebersihan</p>
+>>>>>>> d631132a202d1cd477f06a4222496c8c3e40fe0f
 
 						<div class="row my-5">
 							<div class="col-6 col-md-6">
@@ -147,7 +171,11 @@
 										<img src="images/truck.svg" alt="Image" class="imf-fluid">
 									</div>
 									<h3>Fast &amp; Free Shipping</h3>
+<<<<<<< HEAD
 									<p>Donec vitae odio quis nisl dapibus malesuada. Nullam ac aliquet velit. Aliquam vulputate.</p>
+=======
+									<p>RefillMe! menyediakan layanan antar produk secara gratis</p>
+>>>>>>> d631132a202d1cd477f06a4222496c8c3e40fe0f
 								</div>
 							</div>
 
@@ -157,7 +185,11 @@
 										<img src="images/bag.svg" alt="Image" class="imf-fluid">
 									</div>
 									<h3>Easy to Shop</h3>
+<<<<<<< HEAD
 									<p>Donec vitae odio quis nisl dapibus malesuada. Nullam ac aliquet velit. Aliquam vulputate.</p>
+=======
+									<p>Website yang memudahkan pengguna dalam melakukan pemesanan</p>
+>>>>>>> d631132a202d1cd477f06a4222496c8c3e40fe0f
 								</div>
 							</div>
 
@@ -167,7 +199,11 @@
 										<img src="images/support.svg" alt="Image" class="imf-fluid">
 									</div>
 									<h3>24/7 Support</h3>
+<<<<<<< HEAD
 									<p>Donec vitae odio quis nisl dapibus malesuada. Nullam ac aliquet velit. Aliquam vulputate.</p>
+=======
+									<p>Menyediakan layanan konsultasi untuk produk kecantikan yang ingin dipesan</p>
+>>>>>>> d631132a202d1cd477f06a4222496c8c3e40fe0f
 								</div>
 							</div>
 
@@ -176,8 +212,13 @@
 									<div class="icon">
 										<img src="images/return.svg" alt="Image" class="imf-fluid">
 									</div>
+<<<<<<< HEAD
 									<h3>Hassle Free Returns</h3>
 									<p>Donec vitae odio quis nisl dapibus malesuada. Nullam ac aliquet velit. Aliquam vulputate.</p>
+=======
+									<h3>Zero Waste</h3>
+									<p>Membantu pewujudan SDG's Zero Waste</p>
+>>>>>>> d631132a202d1cd477f06a4222496c8c3e40fe0f
 								</div>
 							</div>
 
@@ -458,8 +499,13 @@
 
 				<div class="row g-5 mb-5">
 					<div class="col-lg-4">
+<<<<<<< HEAD
 						<div class="mb-4 footer-logo-wrap"><a href="#" class="footer-logo">Furni<span>.</span></a></div>
 						<p class="mb-4">Donec facilisis quam ut purus rutrum lobortis. Donec vitae odio quis nisl dapibus malesuada. Nullam ac aliquet velit. Aliquam vulputate velit imperdiet dolor tempor tristique. Pellentesque habitant</p>
+=======
+						<div class="mb-4 footer-logo-wrap"><a href="#" class="footer-logo">GreenGlow<span>.</span></a></div>
+						<p class="mb-4">Embraces a zero-waste ethos by offering a range of beauty and soap products made from natural ingredients, packaged in materials sourced from recycling. With a commitment to sustainability, the project seeks to minimize environmental impact by avoiding synthetic additives and utilizing recycled packaging. </p>
+>>>>>>> d631132a202d1cd477f06a4222496c8c3e40fe0f
 
 						<ul class="list-unstyled custom-social">
 							<li><a href="#"><span class="fa fa-brands fa-facebook-f"></span></a></li>
@@ -512,7 +558,11 @@
 				<div class="border-top copyright">
 					<div class="row pt-4">
 						<div class="col-lg-6">
+<<<<<<< HEAD
 							<p class="mb-2 text-center text-lg-start">Copyright &copy;<script>document.write(new Date().getFullYear());</script>. All Rights Reserved. &mdash; Designed with love by <a href="https://untree.co">Untree.co</a> Distributed By <a hreff="https://themewagon.com">ThemeWagon</a>  <!-- License information: https://untree.co/license/ -->
+=======
+							<p class="mb-2 text-center text-lg-start">Copyright &copy;<script>document.write(new Date().getFullYear());</script>. All Rights Reserved. &mdash; Designed with love by <a href="">GreenGlow</a> Distributed By <a href="">GreenGlow</a>  
+>>>>>>> d631132a202d1cd477f06a4222496c8c3e40fe0f
             </p>
 						</div>
 
@@ -528,12 +578,21 @@
 
 			</div>
 		</footer>
+<<<<<<< HEAD
 		<!-- End Footer Section	 -->
 
 
 		<script src="js/bootstrap.bundle.min.js"></script>
 		<script src="js/tiny-slider.js"></script>
 		<script src="js/custom.js"></script>
+=======
+		<!-- End Footer Section -->	
+
+
+		<script src="resources/js/bootstrap.bundle.min.js"></script>
+		<script src="resources/js/tiny-slider.js"></script>
+		<script src="resources/js/custom.js"></script>
+>>>>>>> d631132a202d1cd477f06a4222496c8c3e40fe0f
 	</body>
 
 </html>

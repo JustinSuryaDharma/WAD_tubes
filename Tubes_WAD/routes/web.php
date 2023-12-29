@@ -20,9 +20,27 @@ Route::get('/', function () {
 Route::get('/shop', function () {
     return view('shop');
 });
+
 Route::get('/index', function () {
     return view('index');
 });
+
 Route::get('/regist', function () {
     return view('regist');
+});
+
+Route::get('/about', function () {
+    return view('about');
+});
+
+Route::get('/rancakalong', function () {
+    return view('rancakalong');
+});
+
+Route::get('/blog', function () {
+    return view('blog');
+});
+
+Route::get('/contact', function () {
+    return view('contact');
 });

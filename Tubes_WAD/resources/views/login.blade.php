@@ -31,8 +31,7 @@
 				</button>
 				<div class="navbar" id="navbarsFurni">
 					<ul class="custom-navbar-nav navbar-nav ms-auto mb-2 mb-md-0">
-						<li><a class="nav-link" href="regist" style="font-size: large;">Regist</a></li>
-						<li><a class="nav-link" href="login" style="font-size: large;">Login</a></li>
+						<li><a class="nav-link" href="regist" style="font-size: large;">Register</a></li>
 					</ul>
 				</div>
 			</div>

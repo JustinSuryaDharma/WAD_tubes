@@ -30,7 +30,7 @@
 		<nav class="custom-navbar navbar navbar navbar-expand-md navbar-dark bg-dark" arial-label="Furni navigation bar">
 
 			<div class="container">
-				<a class="navbar-brand" href="index.html">Furni<span>.</span></a>
+			<a class="navbar-brand" href="/index">GreenGlow X Rancakalong<span>.</span></a>
 
 				<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarsFurni" aria-controls="navbarsFurni" aria-expanded="false" aria-label="Toggle navigation">
 					<span class="navbar-toggler-icon"></span>
@@ -38,19 +38,15 @@
 
 				<div class="collapse navbar-collapse" id="navbarsFurni">
 					<ul class="custom-navbar-nav navbar-nav ms-auto mb-2 mb-md-0">
-						<li class="nav-item ">
-							<a class="nav-link" href="index.html">Home</a>
+						<li><a class="nav-link" href="/index">Home</a></li>
+						<li><a class="nav-link" href="shop">Shop</a></li>
+						<li class="nav-item active">
+							<a class="nav-link" href="about">About GreenGlow</a>
 						</li>
-						<li><a class="nav-link" href="shop.html">Shop</a></li>
-						<li class="active"><a class="nav-link" href="about.html">About us</a></li>
-						<li><a class="nav-link" href="services.html">Services</a></li>
-						<li><a class="nav-link" href="blog.html">Blog</a></li>
-						<li><a class="nav-link" href="contact.html">Contact us</a></li>
-					</ul>
-
-					<ul class="custom-navbar-cta navbar-nav mb-2 mb-md-0 ms-5">
-						<li><a class="nav-link" href="#"><img src="images/user.svg"></a></li>
-						<li><a class="nav-link" href="cart.html"><img src="images/cart.svg"></a></li>
+						<li><a class="nav-link" href="rancakalong">About Rancakalong</a></li>
+						<li><a class="nav-link" href="blog">Edu</a></li>
+						<li><a class="nav-link" href="contact">Contact us</a></li>
+						<li><a class="nav-link" href="/">Logout</a></li>
 					</ul>
 				</div>
 			</div>
@@ -64,9 +60,12 @@
 					<div class="row justify-content-between">
 						<div class="col-lg-5">
 							<div class="intro-excerpt">
-								<h1>About Us</h1>
-								<p class="mb-4">Donec vitae odio quis nisl dapibus malesuada. Nullam ac aliquet velit. Aliquam vulputate velit imperdiet dolor tempor tristique.</p>
-								<p><a href="" class="btn btn-secondary me-2">Shop Now</a><a href="#" class="btn btn-white-outline">Explore</a></p>
+								<h1>Siapa GreenGlow?</h1>
+								<p class="mb-4">Sabun Natural yang Mengusung Ekonomi Sirkular Hasil Limbah Daur Ulang Sebagai Produk Khas dari Desa Rancakalong untuk Masa Depan Berkelanjutan</p>
+								<p>
+									<a href="shop" class="btn btn-secondary me-2">Miliki GreenGlow</a>
+									<a href="rancakalong" class="btn btn-white-outline">Mitra Kami</a>
+								</p>
 							</div>
 						</div>
 						<div class="col-lg-7">

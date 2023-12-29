@@ -35,9 +35,10 @@
 							<a class="nav-link" href="/index">Home</a>
 						</li>
 						<li><a class="nav-link" href="shop">Shop</a></li>
-						<li><a class="nav-link" href="depan">About us</a></li>
-						<li><a class="nav-link" href="about.html">Rancakalong</a></li>
-						<li><a class="nav-link" href="contact.html">Contact us</a></li>
+						<li><a class="nav-link" href="about">About GreenGlow</a></li>
+						<li><a class="nav-link" href="rancakalong">About Rancakalong</a></li>
+						<li><a class="nav-link" href="blog">Edu</a></li>
+						<li><a class="nav-link" href="contact">Contact us</a></li>
 						<li><a class="nav-link" href="/">Logout</a></li>
 					</ul>
 

@@ -35,16 +35,14 @@
 						<li class="nav-item active">
 							<a class="nav-link" href="shop">Shop</a>
 						</li>
-						<li><a class="nav-link" href="about.html">About us</a></li>
-						<li><a class="nav-link" href="about.html">Rancakalong</a></li>
-						<li><a class="nav-link" href="contact.html">Contact us</a></li>
+						<li><a class="nav-link" href="contact">Contact us</a></li>
 						<li><a class="nav-link" href="/">Logout</a></li>
 					</ul>
 
-					<!-- <ul class="custom-navbar-cta navbar-nav mb-2 mb-md-0 ms-5">
+					<ul class="custom-navbar-cta navbar-nav mb-2 mb-md-0 ms-5">
 						<li><a class="nav-link" href="#"><img src="images/user.svg"></a></li>
 						<li><a class="nav-link" href="cart.html"><img src="images/cart.svg"></a></li>
-					</ul> -->
+					</ul>
 				</div>
 			</div>
 				

@@ -39,6 +39,7 @@
 						<li><a class="nav-link" href="about.html">Rancakalong</a></li>
 						<li><a class="nav-link" href="contact.html">Contact us</a></li>
 						<li><a class="nav-link" href="/">Logout</a></li>
+						<li><a class="nav-link" href="blog">Blog</a></li>
 					</ul>
 
 					<!-- <ul class="custom-navbar-cta navbar-nav mb-2 mb-md-0 ms-5">

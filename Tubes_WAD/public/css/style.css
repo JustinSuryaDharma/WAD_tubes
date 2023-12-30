@@ -709,3 +709,30 @@ textarea {
     height: 50px;
     border-radius: 50%;
     background: rgba(59, 93, 80, 0.2); }
+    .latest-posts-title {
+      font-size: 28px; /* Adjust the font size as needed */
+      margin-bottom: 20px; /* Add margin to separate from the rest of the content */
+  }
+
+.blog-post-image {
+    height: 200px; /* Adjust the height as needed */
+    width: 300px;
+    object-fit: cover; /* Maintain aspect ratio and cover the container */
+    border-radius: 5%;
+    transition: transform 0.3s, box-shadow 0.3s;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.2);
+    margin-bottom: 20px;
+}
+.blog-post-image:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 10px 20px rgba(0,0,0,0.2);
+}
+.blog-post-text {
+  margin-top: -10px;
+}
+.latest-posts-title {
+  margin-top: -60px;
+  font-size: 40px;
+  font-weight: bold;
+  color: #000000;
+}

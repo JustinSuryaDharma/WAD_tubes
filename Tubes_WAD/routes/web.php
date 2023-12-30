@@ -25,3 +25,6 @@ Route::get('/index', function () {
 Route::get('/regist', function () {
     return view('regist');
 });
+Route::get('/blog', function () {
+    return view('blog');
+});

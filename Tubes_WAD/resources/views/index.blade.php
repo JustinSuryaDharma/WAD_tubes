@@ -61,7 +61,10 @@
 								<h1 class="mb-0">Natural Soap <span class="d-block">Nurturing Future</span></h1>
 								<h4 class="mt-0" style="color: whitesmoke;">Rancakalong Village, West Java</h4>
 								<p class="mb-4">Glow with naturally crafted soap made from recycled oil and pure ingredients.</p>
-								<p><a href="" class="btn btn-secondary me-2">Shop Now</a><a href="#" class="btn btn-white-outline">Explore</a></p>
+								<p>
+									<a href="shop" class="btn btn-secondary me-2">Shop GreenGlow</a>
+									<a href="#explore-first" class="btn btn-white-outline">Explore</a>
+								</p>
 							</div>
 						</div>
 						<div class="col-lg-5">
@@ -75,7 +78,7 @@
 		<!-- End Hero Section -->
 
 		<!-- Start Product Section -->
-		<div class="product-section">
+		<div id="explore-first" class="product-section" style="margin-top: 20px;">
 			<div class="container">
 				<div class="row">
 

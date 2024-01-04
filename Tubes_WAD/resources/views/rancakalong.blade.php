@@ -22,7 +22,7 @@
 	<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
 	<link href="css/tiny-slider.css" rel="stylesheet">
 	<link href="css/style.css" rel="stylesheet">
-	<title>GreenGlow</title>
+	<title>GreenGlow - Partners</title>
 </head>
 
 <body>
@@ -60,17 +60,17 @@
 	</nav>
 	<!-- End Header/Navigation -->
 
-	<!-- Start Hero Section -->
+	<!-- Start About Village Section -->
 	<div class="hero">
 		<div class="container">
 			<div class="row justify-content-between">
 				<div class="col-lg-5">
 					<div class="intro-excerpt">
 						<h1>Rancakalong Village</h1>
-						<p class="mb-4">Donec vitae odio quis nisl dapibus malesuada. Nullam ac aliquet velit. Aliquam vulputate velit imperdiet dolor tempor tristique.</p>
+						<p class="mb-4">Nestled in the heart of nature, Rancakalong Village offers a serene escape from the hustle and bustle of modern life. Surrounded by lush greenery and embraced by the melodies of chirping birds, this village embodies the essence of tranquility.</p>
 						<p>
 							<a href="shop" class="btn btn-secondary me-2">Shop GreenGlow</a>
-							<a href="rancakalong" class="btn btn-white-outline">Our Partner</a>
+							<a href="rancakalong" class="btn btn-white-outline">Our Product</a>
 						</p>
 					</div>
 				</div>
@@ -98,7 +98,7 @@
 							<img src="images/truck.svg" alt="Image" class="imf-fluid">
 						</div>
 						<h3>Fast &amp; Free Shipping</h3>
-						<p>Donec vitae odio quis nisl dapibus malesuada. Nullam ac aliquet velit. Aliquam vulputate.</p>
+						<p>Experience the convenience of swift and cost-free delivery with our Fast & Free Shipping service. At [Your Company Name], we understand the importance of timely deliveries. From checkout to your doorstep, we ensure a seamless shipping experience that aligns with your fast-paced lifestyle. Say goodbye to delays and embrace the efficiency of our shipping solutions.</p>
 					</div>
 				</div>
 
@@ -108,7 +108,7 @@
 							<img src="images/bag.svg" alt="Image" class="imf-fluid">
 						</div>
 						<h3>Easy to Shop</h3>
-						<p>Donec vitae odio quis nisl dapibus malesuada. Nullam ac aliquet velit. Aliquam vulputate.</p>
+						<p>Shopping made simple and enjoyable – that's our commitment to you. Navigate our user-friendly website or visit our store, where a curated selection awaits. At [Your Company Name], we believe that the shopping experience should be as delightful as the products themselves. Explore with ease and shop with confidence, knowing that simplicity is the key to a satisfying purchase.</p>
 					</div>
 				</div>
 
@@ -118,7 +118,7 @@
 							<img src="images/support.svg" alt="Image" class="imf-fluid">
 						</div>
 						<h3>24/7 Support</h3>
-						<p>Donec vitae odio quis nisl dapibus malesuada. Nullam ac aliquet velit. Aliquam vulputate.</p>
+						<p>Your satisfaction is our priority, and that's why we offer round-the-clock support. Whether you have questions about our products, need assistance with an order, or simply seek guidance, our dedicated support team is here for you 24/7. At [Your Company Name], customer support isn't just a service – it's a commitment to ensuring your peace of mind at any hour.</p>
 					</div>
 				</div>
 
@@ -128,117 +128,14 @@
 							<img src="images/return.svg" alt="Image" class="imf-fluid">
 						</div>
 						<h3>Hassle Free Returns</h3>
-						<p>Donec vitae odio quis nisl dapibus malesuada. Nullam ac aliquet velit. Aliquam vulputate.</p>
+						<p>We understand that sometimes things don't go as planned. That's why we've made our returns process as hassle-free as possible. If you're not completely satisfied with your purchase, our straightforward returns policy allows you to return items effortlessly. At [Your Company Name], we believe in making every aspect of your shopping experience enjoyable, including the returns process.</p>
 					</div>
 				</div>
-
-				<div class="col-6 col-md-6 col-lg-3 mb-4">
-					<div class="feature">
-						<div class="icon">
-							<img src="images/truck.svg" alt="Image" class="imf-fluid">
-						</div>
-						<h3>Fast &amp; Free Shipping</h3>
-						<p>Donec vitae odio quis nisl dapibus malesuada. Nullam ac aliquet velit. Aliquam vulputate.</p>
-					</div>
-				</div>
-
-				<div class="col-6 col-md-6 col-lg-3 mb-4">
-					<div class="feature">
-						<div class="icon">
-							<img src="images/bag.svg" alt="Image" class="imf-fluid">
-						</div>
-						<h3>Easy to Shop</h3>
-						<p>Donec vitae odio quis nisl dapibus malesuada. Nullam ac aliquet velit. Aliquam vulputate.</p>
-					</div>
-				</div>
-
-				<div class="col-6 col-md-6 col-lg-3 mb-4">
-					<div class="feature">
-						<div class="icon">
-							<img src="images/support.svg" alt="Image" class="imf-fluid">
-						</div>
-						<h3>24/7 Support</h3>
-						<p>Donec vitae odio quis nisl dapibus malesuada. Nullam ac aliquet velit. Aliquam vulputate.</p>
-					</div>
-				</div>
-
-				<div class="col-6 col-md-6 col-lg-3 mb-4">
-					<div class="feature">
-						<div class="icon">
-							<img src="images/return.svg" alt="Image" class="imf-fluid">
-						</div>
-						<h3>Hassle Free Returns</h3>
-						<p>Donec vitae odio quis nisl dapibus malesuada. Nullam ac aliquet velit. Aliquam vulputate.</p>
-					</div>
-				</div>
-
 			</div>
 
 		</div>
 	</div>
 	<!-- End Why Choose Us Section -->
-
-	<!-- Start Product Section -->
-	<div class="product-section pt-0">
-		<div class="container">
-			<div class="row">
-
-				<!-- Start Column 1 -->
-				<div class="col-md-12 col-lg-3 mb-5 mb-lg-0">
-					<h2 class="mb-4 section-title">Crafted with excellent material.</h2>
-					<p class="mb-4">Donec vitae odio quis nisl dapibus malesuada. Nullam ac aliquet velit. Aliquam vulputate velit imperdiet dolor tempor tristique. </p>
-					<p><a href="#" class="btn">Explore</a></p>
-				</div>
-				<!-- End Column 1 -->
-
-				<!-- Start Column 2 -->
-				<div class="col-12 col-md-4 col-lg-3 mb-5 mb-md-0">
-					<a class="product-item" href="#">
-						<img src="images/product-1.png" class="img-fluid product-thumbnail">
-						<h3 class="product-title">Nordic Chair</h3>
-						<strong class="product-price">$50.00</strong>
-
-						<span class="icon-cross">
-							<img src="images/cross.svg" class="img-fluid">
-						</span>
-					</a>
-				</div>
-				<!-- End Column 2 -->
-
-				<!-- Start Column 3 -->
-				<div class="col-12 col-md-4 col-lg-3 mb-5 mb-md-0">
-					<a class="product-item" href="#">
-						<img src="images/product-2.png" class="img-fluid product-thumbnail">
-						<h3 class="product-title">Kruzo Aero Chair</h3>
-						<strong class="product-price">$78.00</strong>
-
-						<span class="icon-cross">
-							<img src="images/cross.svg" class="img-fluid">
-						</span>
-					</a>
-				</div>
-				<!-- End Column 3 -->
-
-				<!-- Start Column 4 -->
-				<div class="col-12 col-md-4 col-lg-3 mb-5 mb-md-0">
-					<a class="product-item" href="#">
-						<img src="images/product-3.png" class="img-fluid product-thumbnail">
-						<h3 class="product-title">Ergonomic Chair</h3>
-						<strong class="product-price">$43.00</strong>
-
-						<span class="icon-cross">
-							<img src="images/cross.svg" class="img-fluid">
-						</span>
-					</a>
-				</div>
-				<!-- End Column 4 -->
-
-			</div>
-		</div>
-	</div>
-	<!-- End Product Section -->
-
-
 
 	<!-- Start Testimonial Slider -->
 	<div class="testimonial-section before-footer-section">
@@ -266,15 +163,14 @@
 
 										<div class="testimonial-block text-center">
 											<blockquote class="mb-5">
-												<p>&ldquo;Donec facilisis quam ut purus rutrum lobortis. Donec vitae odio quis nisl dapibus malesuada. Nullam ac aliquet velit. Aliquam vulputate velit imperdiet dolor tempor tristique. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Integer convallis volutpat dui quis scelerisque.&rdquo;</p>
+												<p>&ldquo;I have been using GreenGlow's natural soap for quite some time, and I must say it's a game-changer in the world of personal care. What sets GreenGlow apart is not just its commitment to providing a top-notch product, but its dedication to embracing the circular economy through recycled waste. It's more than just soap; it's a step towards a sustainable future.&rdquo;</p>
 											</blockquote>
 
 											<div class="author-info">
 												<div class="author-pic">
-													<img src="images/person-1.png" alt="Maria Jones" class="img-fluid">
+													<img src="images/pp-2.png" alt="Jared Peto" class="img-fluid">
 												</div>
-												<h3 class="font-weight-bold">Maria Jones</h3>
-												<span class="position d-block mb-3">CEO, Co-Founder, XYZ Inc.</span>
+												<h3 class="font-weight-bold">Jared Peto</h3>
 											</div>
 										</div>
 
@@ -289,15 +185,14 @@
 
 										<div class="testimonial-block text-center">
 											<blockquote class="mb-5">
-												<p>&ldquo;Donec facilisis quam ut purus rutrum lobortis. Donec vitae odio quis nisl dapibus malesuada. Nullam ac aliquet velit. Aliquam vulputate velit imperdiet dolor tempor tristique. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Integer convallis volutpat dui quis scelerisque.&rdquo;</p>
+												<p>&ldquo;Knowing that the soap I use contributes to the circular economy by utilizing recycled waste is truly empowering. GreenGlow's innovative approach from Rancakalong Village is not just distinctive; it's a beacon for a more eco-friendly and responsible lifestyle.&rdquo;</p>
 											</blockquote>
 
 											<div class="author-info">
 												<div class="author-pic">
-													<img src="images/person-1.png" alt="Maria Jones" class="img-fluid">
+													<img src="images/pp-1.png" alt="Mario Oza" class="img-fluid">
 												</div>
-												<h3 class="font-weight-bold">Maria Jones</h3>
-												<span class="position d-block mb-3">CEO, Co-Founder, XYZ Inc.</span>
+												<h3 class="font-weight-bold">Mario Oza</h3>
 											</div>
 										</div>
 
@@ -312,15 +207,14 @@
 
 										<div class="testimonial-block text-center">
 											<blockquote class="mb-5">
-												<p>&ldquo;Donec facilisis quam ut purus rutrum lobortis. Donec vitae odio quis nisl dapibus malesuada. Nullam ac aliquet velit. Aliquam vulputate velit imperdiet dolor tempor tristique. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Integer convallis volutpat dui quis scelerisque.&rdquo;</p>
+												<p>&ldquo;The soap itself is a testament to quality and care. The natural ingredients leave my skin feeling refreshed and nourished, a stark contrast to the harsh chemicals found in many conventional products. The delightful fragrance, coupled with the knowledge that it's made with a commitment to sustainability, makes every use a mindful and satisfying experience.&rdquo;</p>
 											</blockquote>
 
 											<div class="author-info">
 												<div class="author-pic">
-													<img src="images/person-1.png" alt="Maria Jones" class="img-fluid">
+													<img src="images/pp-3.png" alt="Kosimin Apk" class="img-fluid">
 												</div>
-												<h3 class="font-weight-bold">Maria Jones</h3>
-												<span class="position d-block mb-3">CEO, Co-Founder, XYZ Inc.</span>
+												<h3 class="font-weight-bold">Kosimin Apk</h3>
 											</div>
 										</div>
 
@@ -345,42 +239,42 @@
 		<div class="container relative">
 
 			<div class="sofa-img">
-				<img src="images/sofa.png" alt="Image" class="img-fluid">
+				<img src="images/soap1.png" alt="Image" class="img-fluid" style="min-height: 120%; min-width: 120%">
 			</div>
 
-			<div class="row">
-				<div class="col-lg-8">
-					<div class="subscription-form">
-						<h3 class="d-flex align-items-center"><span class="me-1"><img src="images/envelope-outline.svg" alt="Image" class="img-fluid"></span><span>Subscribe to Newsletter</span></h3>
+			<!-- <div class="row">
+					<div class="col-lg-8">
+						<div class="subscription-form">
+							<h3 class="d-flex align-items-center"><span class="me-1"><img src="images/envelope-outline.svg" alt="Image" class="img-fluid"></span><span>Subscribe to Newsletter</span></h3>
 
-						<form action="#" class="row g-3">
-							<div class="col-auto">
-								<input type="text" class="form-control" placeholder="Enter your name">
-							</div>
-							<div class="col-auto">
-								<input type="email" class="form-control" placeholder="Enter your email">
-							</div>
-							<div class="col-auto">
-								<button class="btn btn-primary">
-									<span class="fa fa-paper-plane"></span>
-								</button>
-							</div>
-						</form>
+							<form action="#" class="row g-3">
+								<div class="col-auto">
+									<input type="text" class="form-control" placeholder="Enter your name">
+								</div>
+								<div class="col-auto">
+									<input type="email" class="form-control" placeholder="Enter your email">
+								</div>
+								<div class="col-auto">
+									<button class="btn btn-primary">
+										<span class="fa fa-paper-plane"></span>
+									</button>
+								</div>
+							</form>
 
+						</div>
 					</div>
-				</div>
-			</div>
+				</div> -->
 
 			<div class="row g-5 mb-5">
 				<div class="col-lg-4">
-					<div class="mb-4 footer-logo-wrap"><a href="#" class="footer-logo">Furni<span>.</span></a></div>
-					<p class="mb-4">Donec facilisis quam ut purus rutrum lobortis. Donec vitae odio quis nisl dapibus malesuada. Nullam ac aliquet velit. Aliquam vulputate velit imperdiet dolor tempor tristique. Pellentesque habitant</p>
+					<div class="mb-4 footer-logo-wrap"><a href="#" class="footer-logo">GreenGlow<span>.</span></a></div>
+					<p class="mb-4">Embraces a zero-waste ethos by offering a range of beauty and soap products made from natural ingredients, packaged in materials sourced from recycling. With a commitment to sustainability, the project seeks to minimize environmental impact by avoiding synthetic additives and utilizing recycled packaging. </p>
 
 					<ul class="list-unstyled custom-social">
-						<li><a href="#"><span class="fa fa-brands fa-facebook-f"></span></a></li>
-						<li><a href="#"><span class="fa fa-brands fa-twitter"></span></a></li>
-						<li><a href="#"><span class="fa fa-brands fa-instagram"></span></a></li>
-						<li><a href="#"><span class="fa fa-brands fa-linkedin"></span></a></li>
+						<li><a href="https://www.youtube.com/watch?v=8ZsRryHYBwg" target="_blank">
+								<span class="fa fa-brands fa-youtube"></span>
+							</a></span></a>
+						</li>
 					</ul>
 				</div>
 
@@ -388,35 +282,22 @@
 					<div class="row links-wrap">
 						<div class="col-6 col-sm-6 col-md-3">
 							<ul class="list-unstyled">
-								<li><a href="#">About us</a></li>
-								<li><a href="#">Services</a></li>
-								<li><a href="#">Blog</a></li>
-								<li><a href="#">Contact us</a></li>
+								<li><a href="/">Home</a></li>
+								<li><a href="about">About GreenGlow</a></li>
 							</ul>
 						</div>
 
 						<div class="col-6 col-sm-6 col-md-3">
 							<ul class="list-unstyled">
-								<li><a href="#">Support</a></li>
-								<li><a href="#">Knowledge base</a></li>
-								<li><a href="#">Live chat</a></li>
+								<li><a href="shop">Shop</a></li>
+								<li><a href="rancakalong">Our Partner</a></li>
 							</ul>
 						</div>
 
 						<div class="col-6 col-sm-6 col-md-3">
 							<ul class="list-unstyled">
-								<li><a href="#">Jobs</a></li>
-								<li><a href="#">Our team</a></li>
-								<li><a href="#">Leadership</a></li>
-								<li><a href="#">Privacy Policy</a></li>
-							</ul>
-						</div>
-
-						<div class="col-6 col-sm-6 col-md-3">
-							<ul class="list-unstyled">
-								<li><a href="#">Nordic Chair</a></li>
-								<li><a href="#">Kruzo Aero</a></li>
-								<li><a href="#">Ergonomic Chair</a></li>
+								<li><a href="about">About Us</a></li>
+								<li><a href="contact">Contact Us</a></li>
 							</ul>
 						</div>
 					</div>
@@ -429,7 +310,7 @@
 					<div class="col-lg-6">
 						<p class="mb-2 text-center text-lg-start">Copyright &copy;<script>
 								document.write(new Date().getFullYear());
-							</script>. All Rights Reserved. &mdash; Designed with love by <a href="https://untree.co">Untree.co</a> Distributed By <a hreff="https://themewagon.com">ThemeWagon</a> <!-- License information: https://untree.co/license/ -->
+							</script>. All Rights Reserved. &mdash; Designed with love by <a href="">GreenGlow</a> Distributed By <a href="">GreenGlow</a>
 						</p>
 					</div>
 

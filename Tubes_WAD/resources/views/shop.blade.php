@@ -19,7 +19,6 @@
 </head>
 
 <body>
-
 	<!-- Start Header/Navigation -->
 	<nav class="custom-navbar navbar navbar navbar-expand-md navbar-dark bg-dark" arial-label="Furni navigation bar">
 
@@ -116,7 +115,7 @@
 
 				<!-- Start Column 1 -->
 				<div class="col-12 col-md-4 col-lg-3 mb-5">
-					<a class="product-item" href="#">
+					<a class="product-item" href="#" onclick="addToCart()">
 						<img src="images/produk1.png" class="img-fluid product-thumbnail">
 						<h3 class="product-title">Natural Soap with Olive Extract</h3>
 						<strong class="product-price">Rp50.000</strong>
@@ -126,9 +125,18 @@
 						</span>
 					</a>
 				</div>
+
+				<script>
+					function addToCart() {
+						// Add your logic here to handle adding the product to the cart
+
+						// Show a simple popup
+						alert("Product added to cart");
+					}
+				</script>
 				<!-- End Column 1 -->
 				<div class="col-12 col-md-4 col-lg-3 mb-5">
-					<a class="product-item" href="#">
+					<a class="product-item" href="#" onclick="addToCart()">
 						<img src="images/produk3.png" class="img-fluid product-thumbnail">
 						<h3 class="product-title">Natural Soap with Goat Milk</h3>
 						<strong class="product-price">Rp55.000</strong>
